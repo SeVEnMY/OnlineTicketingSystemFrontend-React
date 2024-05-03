@@ -1,0 +1,14 @@
+.sideImage {
+    width: 60%;
+    height: 100%;
+    margin: 25%; 
+    border: none;
+  }
+  
+.middleImage {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    border: none;
+}
+  
